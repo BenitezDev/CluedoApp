@@ -1,7 +1,9 @@
 # Cluedo App  
 
 Una aplicación de móvil para sustituir a la libreta de detective que te proporciona el juego, para que... si te vicias mucho... no te quedes sin hojas.
-  
+
+<img src="https://i.imgur.com/5zgMNEi.png" width="400">
+
 ## Para empezar... 
   
 Para descargar el APK [aquí](https://github.com/BenitezDev/CluedoApp/releases/tag/1.0)
@@ -37,8 +39,10 @@ En la escena ***CluedoApp***, ir al GameObject ***Sprites Manager*** y en su com
 
   ![png]( https://i.imgur.com/ue61Ray.png)
 
-## License  
+## Licencia  
   
 Attribution 4.0 International (CC BY 4.0)  
   
 
+## Acknowledgements 
+- Mockup - *Designed by zlatko_plamenov / Freepik*
