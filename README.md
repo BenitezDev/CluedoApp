@@ -2,7 +2,7 @@
 
 Una aplicación de móvil para sustituir a la libreta de detective que te proporciona el juego, para que... si te vicias mucho... no te quedes sin hojas.
 
-<img src="https://i.imgur.com/5zgMNEi.png" width="400">
+<img src="https://i.imgur.com/co6smrk.png?1" width="700">
 
 ## Para empezar... 
   
