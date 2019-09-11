@@ -12,6 +12,7 @@ Para cambiar las imagenes de las casillas [aquí](#Cambiar-los-botones)
   
 
 - El juego
+
 ![png](https://i.imgur.com/0qpDGWX.png)
 
 - Dispositivo Android
