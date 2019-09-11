@@ -4,23 +4,25 @@ Una aplicación de móvil para sustituir a la libreta de detective que te propor
   
 ## Para empezar... 
   
-Para descargar el APK [aquí](http://www.google.es)
+Para descargar el APK [aquí](https://github.com/BenitezDev/CluedoApp/releases/tag/1.0)
   
-Para cambiar las imagenes de las casillas [aquí](http://google.es)
+Para cambiar las imagenes de las casillas [aquí]((#Cambiar-los-botones))
   
 ### Requisitos  
   
 
 - El juego
-![png](https://i.imgur.com/0qpDGWX.png =250x )
+![png](https://i.imgur.com/0qpDGWX.png =250x)
 
 - Dispositivo Android
+
 ```
 En otras ediciones del juego, puede cambiar el nombre de los personajes/armas/lugares.
 ```
 
  
 ## Versioning  
+
 Requiere TextMesh Pro.
 
 En Unity 2019: Seleccionar **Window > Package Manager >** e instalar el paquete **TextMesh Pro**.
